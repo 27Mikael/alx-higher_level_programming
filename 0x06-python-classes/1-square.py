@@ -4,6 +4,7 @@
 
 
 class Square:
+    """Repressent a Square"""
     def __init__(self, size) -> None:
         """Initialise a new square
 
